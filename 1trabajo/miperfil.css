@@ -36,7 +36,7 @@ h2{
 .div_hobbies{
     margin: 0px;
     padding: 20px;
-    border: 1px solid  #F9A825;
+    border: 1px solid  #6f00ff;
     background-color: #FFF3E0;
     border-radius: 10px;
     
@@ -58,5 +58,5 @@ ul{
     
 }
 .color{
-    color: #8B9F3F;
+    color: #ff0000;
 }
